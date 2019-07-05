@@ -14,7 +14,7 @@
   При запуске программы напишите своё имя в качестве аргумента в командной строке:
   
   ```
-  c:\username\download\test>ruby test.rb here is your name
+  c:\......\test>ruby test.rb here is your name
   ```
   
   Отвечайте на вопросы теста согластно инструкции.
