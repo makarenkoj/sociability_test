@@ -1,7 +1,7 @@
 # encoding: UTF-8
 
 require_relative "test"
-require_relative "result_printer_test"
+require_relative "result_printer"
 
 puts "Тест \"Оценка уровня общительности\"."
 puts "Инструкция: Вашему вниманию предлагается несколько простых вопросов."
