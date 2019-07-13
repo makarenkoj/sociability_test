@@ -12,9 +12,8 @@ class ResultPrinter
 
   def print_result(test)
     puts "Результаты теста #{test.points} :"
-
     case test.points
-    when (32..30) then puts @result[0]
+    when (30..32) then puts @result[0]
     when (25..29) then puts @result[1]
     when (19..24) then puts @result[2]
     when (14..18) then puts @result[3]
